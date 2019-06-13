@@ -1,0 +1,6 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Pô, que mão\Pô, que mão\bin\Debug\Pô, que mão.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Pô, que mão\Pô, que mão\bin\Debug\Pô, que mão.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Pô, que mão\Pô, que mão\bin\Debug\Pô, que mão.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Pô, que mão\Pô, que mão\obj\Debug\Pô, que mão.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Pô, que mão\Pô, que mão\obj\Debug\Pô, que mão.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Pô, que mão\Pô, que mão\obj\Debug\Pô, que mão.pdb

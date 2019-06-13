@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\bin\Debug\Dario e Xerxes.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\bin\Debug\Dario e Xerxes.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\bin\Debug\Dario e Xerxes.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\obj\Debug\Dario e Xerxes.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\obj\Debug\Dario e Xerxes.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\obj\Debug\Dario e Xerxes.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Dario e Xerxes\Dario e Xerxes\obj\Debug\Dario e Xerxes.pdb

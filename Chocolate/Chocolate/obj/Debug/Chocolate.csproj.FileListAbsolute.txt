@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\bin\Debug\Chocolate.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\bin\Debug\Chocolate.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\bin\Debug\Chocolate.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\obj\Debug\Chocolate.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\obj\Debug\Chocolate.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\obj\Debug\Chocolate.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Chocolate\Chocolate\obj\Debug\Chocolate.pdb

@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\bin\Debug\Cinco.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\bin\Debug\Cinco.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\bin\Debug\Cinco.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\obj\Debug\Cinco.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\obj\Debug\Cinco.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\obj\Debug\Cinco.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Cinco\Cinco\obj\Debug\Cinco.pdb

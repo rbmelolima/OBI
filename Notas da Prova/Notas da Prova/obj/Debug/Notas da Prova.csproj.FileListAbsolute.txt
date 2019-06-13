@@ -1,0 +1,6 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Notas da Prova\Notas da Prova\bin\Debug\Notas da Prova.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Notas da Prova\Notas da Prova\bin\Debug\Notas da Prova.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Notas da Prova\Notas da Prova\bin\Debug\Notas da Prova.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Notas da Prova\Notas da Prova\obj\Debug\Notas da Prova.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Notas da Prova\Notas da Prova\obj\Debug\Notas da Prova.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Notas da Prova\Notas da Prova\obj\Debug\Notas da Prova.pdb

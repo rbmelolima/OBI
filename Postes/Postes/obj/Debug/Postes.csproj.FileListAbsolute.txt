@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\bin\Debug\Postes.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\bin\Debug\Postes.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\bin\Debug\Postes.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\obj\Debug\Postes.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\obj\Debug\Postes.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\obj\Debug\Postes.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Postes\Postes\obj\Debug\Postes.pdb

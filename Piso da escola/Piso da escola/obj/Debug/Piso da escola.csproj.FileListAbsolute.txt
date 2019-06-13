@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\bin\Debug\Piso da escola.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\bin\Debug\Piso da escola.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\bin\Debug\Piso da escola.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\obj\Debug\Piso da escola.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\obj\Debug\Piso da escola.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\obj\Debug\Piso da escola.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Piso da escola\Piso da escola\obj\Debug\Piso da escola.pdb

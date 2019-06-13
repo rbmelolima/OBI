@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\bin\Debug\Figurinhas da copa.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\bin\Debug\Figurinhas da copa.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\bin\Debug\Figurinhas da copa.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\obj\Debug\Figurinhas da copa.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\obj\Debug\Figurinhas da copa.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\obj\Debug\Figurinhas da copa.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Figurinhas da copa\Figurinhas da copa\obj\Debug\Figurinhas da copa.pdb

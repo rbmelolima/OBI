@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\bin\Debug\Frequência na aula.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\bin\Debug\Frequência na aula.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\bin\Debug\Frequência na aula.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\obj\Debug\Frequência na aula.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\obj\Debug\Frequência na aula.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\obj\Debug\Frequência na aula.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Frequência na aula\Frequência na aula\obj\Debug\Frequência na aula.pdb

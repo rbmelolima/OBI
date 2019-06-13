@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\bin\Debug\Botas Trocadas.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\bin\Debug\Botas Trocadas.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\bin\Debug\Botas Trocadas.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\obj\Debug\Botas Trocadas.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\obj\Debug\Botas Trocadas.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\obj\Debug\Botas Trocadas.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Botas Trocadas\Botas Trocadas\obj\Debug\Botas Trocadas.pdb

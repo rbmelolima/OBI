@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\bin\Debug\Câmara de Compensação.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\bin\Debug\Câmara de Compensação.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\bin\Debug\Câmara de Compensação.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\obj\Debug\Câmara de Compensação.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\obj\Debug\Câmara de Compensação.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\obj\Debug\Câmara de Compensação.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Câmara de Compensação\Câmara de Compensação\obj\Debug\Câmara de Compensação.pdb

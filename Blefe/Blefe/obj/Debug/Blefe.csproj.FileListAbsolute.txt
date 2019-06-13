@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\bin\Debug\Blefe.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\bin\Debug\Blefe.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\bin\Debug\Blefe.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\obj\Debug\Blefe.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\obj\Debug\Blefe.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\obj\Debug\Blefe.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Blefe\Blefe\obj\Debug\Blefe.pdb

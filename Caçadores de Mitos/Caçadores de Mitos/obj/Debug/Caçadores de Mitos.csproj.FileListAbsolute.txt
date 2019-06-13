@@ -1,0 +1,7 @@
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\bin\Debug\Caçadores de Mitos.exe.config
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\bin\Debug\Caçadores de Mitos.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\bin\Debug\Caçadores de Mitos.pdb
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\obj\Debug\Caçadores de Mitos.csprojAssemblyReference.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\obj\Debug\Caçadores de Mitos.csproj.CoreCompileInputs.cache
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\obj\Debug\Caçadores de Mitos.exe
+C:\Users\clayton\Desktop\Exercícios OBI\Caçadores de Mitos\Caçadores de Mitos\obj\Debug\Caçadores de Mitos.pdb
